@@ -6,13 +6,13 @@
 //  Copyright (c) 2015 Stanislav Grinberg. All rights reserved.
 //
 
-#import "SecondViewController.h"
+#import "CompanyViewController.h"
 
-@interface SecondViewController ()
+@interface CompanyViewController ()
 
 @end
 
-@implementation SecondViewController
+@implementation CompanyViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -25,8 +25,6 @@
 }
 
 - (IBAction)showInfoAction:(id)sender {
-    
-    
     
 }
 
