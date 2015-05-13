@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>productName</key>
+		<string>Хлеб</string>
+		<key>pictureName</key>
+		<string>pic1.jpg</string>
+		<key>description</key>
+		<string>Вырабатывается из муки пшеничной высшего сорта с добавлением масла подсолнечного и сахара</string>
+	</dict>
+	<dict>
+		<key>productName</key>
+		<string>Масло</string>
+		<key>pictureName</key>
+		<string>pic2</string>
+		<key>description</key>
+		<string>Масло сливочное  - продукт высокой концентрации молочного жира, обладающего среди природных животных жиров наибольшей пищевой и биологической ценностью. Масло, изготовляемое по старинным русским рецептам, знают и любят многие поколения российских покупателей</string>
+	</dict>
+	<dict>
+		<key>productName</key>
+		<string>Молоко</string>
+		<key>pictureName</key>
+		<string>pic3</string>
+		<key>description</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>productName</key>
+		<string>Сыр</string>
+		<key>pictureName</key>
+		<string>pic4</string>
+		<key>description</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
