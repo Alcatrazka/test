@@ -14,7 +14,7 @@
 		<key>productName</key>
 		<string>Масло</string>
 		<key>pictureName</key>
-		<string>pic2</string>
+		<string>pic2.jpg</string>
 		<key>description</key>
 		<string>Масло сливочное  - продукт высокой концентрации молочного жира, обладающего среди природных животных жиров наибольшей пищевой и биологической ценностью. Масло, изготовляемое по старинным русским рецептам, знают и любят многие поколения российских покупателей</string>
 	</dict>
@@ -22,17 +22,17 @@
 		<key>productName</key>
 		<string>Молоко</string>
 		<key>pictureName</key>
-		<string>pic3</string>
+		<string>pic3.jpg</string>
 		<key>description</key>
-		<string></string>
+		<string>Молоко является одним из самых ценных продуктов. Его справедливо называют напитком здоровья. Молоко содержит необходимые для питания человека вещества – белки, жиры, углеводы, которые находятся в сбалансированном соотношении и очень легко усваиваются организмом.</string>
 	</dict>
 	<dict>
 		<key>productName</key>
 		<string>Сыр</string>
 		<key>pictureName</key>
-		<string>pic4</string>
+		<string>pic4.jpg</string>
 		<key>description</key>
-		<string></string>
+		<string>Сыр — пищевой продукт, получаемый из сыропригодного молока с использованием свёртывающих молоко ферментов и молочнокислых бактерий или путём плавления различных молочных продуктов и сырья немолочного происхождения с применением солей-плавителей</string>
 	</dict>
 </array>
 </plist>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1A038895-5495-45AE-8AE9-359A2B822406</string>
+	<key>IDESourceControlProjectName</key>
+	<string>testTask</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C89B03FE21414AEAD2718C7A55E63A2D2584E5EB</key>
+		<string>https://github.com/Alcatrazka/test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>testTask.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C89B03FE21414AEAD2718C7A55E63A2D2584E5EB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Alcatrazka/test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C89B03FE21414AEAD2718C7A55E63A2D2584E5EB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C89B03FE21414AEAD2718C7A55E63A2D2584E5EB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>testTask</string>
+		</dict>
+	</array>
+</dict>
+</plist>
